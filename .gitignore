@@ -1,0 +1,12 @@
+# Flutter ignores
+**/build/
+**/.dart_tool/
+**/.packages
+**/ios/Flutter/
+**/android/.gradle/
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+.idea/
+.vscode/
+.DS_Store
